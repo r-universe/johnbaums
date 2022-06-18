@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hues"]
+	path = hues
+	url = https://github.com/johnbaums/hues
+	shallow = true
+	registered = true
+[submodule "mptools"]
+	path = mptools
+	url = https://github.com/johnbaums/mptools
+	shallow = true
+	registered = true

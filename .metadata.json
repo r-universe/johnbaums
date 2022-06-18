@@ -1,0 +1,10 @@
+[
+  {
+    "package": "hues",
+    "oncran": true
+  },
+  {
+    "package": "mptools",
+    "oncran": true
+  }
+]
