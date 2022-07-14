@@ -8,8 +8,3 @@
 	url = https://github.com/johnbaums/hues
 	shallow = true
 	registered = true
-[submodule "mptools"]
-	path = mptools
-	url = https://github.com/johnbaums/mptools
-	shallow = true
-	registered = true
